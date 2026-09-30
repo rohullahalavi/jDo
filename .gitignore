@@ -1,0 +1,49 @@
+# === Compiled Binary ===
+/jdo
+/jdo*
+./jdo
+./jdo*
+jdo
+jdo*
+
+# === Go Build Artifacts ===
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.prof
+
+# === AI CLI Tools ===
+.kilo/
+.codex/
+.cloudecode/
+.opencode/
+.aider/
+.claude/
+.cursor/
+.continue/
+.cody/
+.tabnine/
+.supermaven/
+.codeium/
+.copilot/
+.windsurf/
+.trae/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Secrets / Local Config ===
+.env
+.env.*
+*.pem
+*.key
+config.local.*
